@@ -44,7 +44,6 @@ The project contains:
 - Created Starbucks database
 - Created relational tables
 - Inserted customer, item, and sales data
-- Performed joins and aggregations
 - Analyzed revenue and sales trends
 - Prepared data for Power BI reporting
 
