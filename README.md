@@ -4,7 +4,7 @@
 The Starbucks Daily Sales Analysis Dashboard is a complete end-to-end Business Intelligence project developed using SQL Server and Power BI.
 The project focuses on analyzing Starbucks sales transactions to generate meaningful business insights related to customer behavior, sales performance, order trends, and product analysis.
 
-## In this project:
+In this project:
 
 - Raw data was first stored and managed in SQL Server
 - SQL queries were used for data extraction and preprocessing
